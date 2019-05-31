@@ -7771,6 +7771,9 @@ h1, h2, h3, h4, h5,
   padding-left: 30px;
   padding-right: 30px; }
 
+.work-detail {
+  color: black;
+}
 .work-entry {
   position: relative;
   margin-bottom: 30px; }
@@ -7847,7 +7850,7 @@ h1, h2, h3, h4, h5,
   transition: all 0.3s ease; }
   @media (max-width: 767.98px) {
     .staff {
-      margin-bottom: 30px; } }
+      margin-bottom: 30px; width:100%;} }
   .staff .info {
     width: 100%; }
     .staff .info h3 {
